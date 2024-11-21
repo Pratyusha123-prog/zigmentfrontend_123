@@ -72,7 +72,7 @@ Check out the live demo: [Dynamic Form Generator](https://json-to-for-generator.
   "fields": [
     { "label": "Name", "type": "text", "id": "name", "required": true },
     { "label": "Email", "type": "email", "id": "email", "required": true },
-    { "label": "Message", "type": "textarea", "id": "message" },
+    { "label": "Password", "type": "textarea", "id": "password" },
     { "label": "Gender", "type": "select", "id": "gender",
       "options": [
      { "value": "Male", "label": "Male" },
